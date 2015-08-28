@@ -1,4 +1,4 @@
-# mediawiki-extension-formsauth
+# FormsAuth
 This MediaWiki extension allows the use of the standard ASP.NET FormsAuthentication cookie for wiki log ins. It also can redirect the standard wiki login form to a different URL for logging in.
 
 ## Requirements
